@@ -4,7 +4,7 @@ description: "Making an ssd for the worst"
 date: "Mar 21 2024"
 draft: false
 ---
-![Archive All The Things!](/public/archiveme.jpg)
+![Archive All The Things!](/archiveme.jpg)
 So, Trump got elected. I can't really see this ending up well.<br>
 Anywho, I'm making an ssd of things to help to rebuild society or whatever just in case.<br>
 Things I have on there:<br>
