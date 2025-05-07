@@ -18,6 +18,8 @@ ZIMs archived:
       - **The kiwix "prepper" hotspot** [full list here](https://preppers.demo.hotspot.kiwix.org/download/) 28 zims for preppers<br>
       - **The kiwix "medical" hotspot** [full list here](https://medical.demo.hotspot.kiwix.org/download/) 23 zims about health<br>
   #### Why?
+Obvious reasons for each.
+
 If you haven't gone down the rabbit hole of hosting a wikipedia mirror, a ZIM file is like a WARC file, a fill archive of a website, in a format able to be re hosted and still shown in the same manner, The program used to host these files is Kiwix, and they provide ZIMs of all the wikimedia wikis, and a bunch of other zims.<br>
 ### llamafiles<br>
 I also have several llamafiles on there.<br>
