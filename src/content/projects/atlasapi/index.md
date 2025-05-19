@@ -22,6 +22,6 @@ Api spec (will change) is available [here](https://pegleg.stoplight.io/docs/pegl
 ### Long term things
 - [ ] All html5 games from flashpoint (34,778+ games)
 - [ ] Custom wisp to make flashpoint completely compatible
-- [ ] 
+- [ ] Completely Proxied Everything
 ### Possibilities (dont count on it)
 - [ ] Better Metadata
