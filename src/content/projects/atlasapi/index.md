@@ -28,5 +28,4 @@ Api spec (will change) is available [here](https://pegleg.stoplight.io/docs/pegl
 - [ ] Better Metadata
 
 Once short term things are complete, and the api and client have their initial release, it will have at least 200,000 games.
-Once all of this is complete, it will have ~750,000+ games, all with (near) complete compatibility, and all unblocked.
-
+Once all of this is complete, it will have 700,000-850,000+ games, all with (near) complete compatibility, and all unblocked.
