@@ -18,7 +18,7 @@ Api spec (will change) is available [here](https://pegleg.stoplight.io/docs/pegl
 - [ ] Games from [gn-math](https://gn-math.github.io) and similar sites
 - [ ] Cors proxy
 - [ ] Custom gitloaf
-- [x] Ultimate Game Stash (automatically updating) (~1,300 games)
+- [x] Ultimate Game Stash (automatically updating) (~1,400 games)
 ### Long term things
 - [ ] All html5 games from flashpoint (34,778+ games)
 - [ ] Custom html5 proxied loader for complete compatibility
